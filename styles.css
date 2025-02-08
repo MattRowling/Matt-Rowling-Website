@@ -2,3 +2,8 @@ body {
     background-color: floralwhite;
     font-family: "Outfit", serif;
 }
+
+.small-emoji {
+    font-size: 0.6em;
+    text-decoration: none;
+}
